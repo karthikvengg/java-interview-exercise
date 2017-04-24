@@ -1,6 +1,6 @@
 ## Task
 
-Build a service that handles a (very simple) recruiting process. The process requires two types of objects: job offers and applications from candidates.
+Build a backend service that handles a (very simple) recruiting process. The process requires two types of objects: job offers and applications from candidates.
 minimum required fields for the objects are:
 
     Offer:
@@ -41,3 +41,5 @@ the data does not have to be stored permanently, it may be handled in-memory dur
 - how you test your code
 
 It is more important that the application works rather than finishing all tasks.
+
+We do not require you to build a frontend, only endpoints are relevant.
