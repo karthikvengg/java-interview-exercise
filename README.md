@@ -43,3 +43,5 @@ the data does not have to be stored permanently, it may be handled in-memory dur
 It is more important that the application works rather than finishing all tasks.
 
 We do not require you to build a frontend, only endpoints are relevant.
+
+Please send a link to a repository with your solution or a file archive to tech@heavenHR.com
