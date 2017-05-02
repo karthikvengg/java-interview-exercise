@@ -37,10 +37,9 @@ the data does not have to be stored permanently, it may be handled in-memory dur
 
 - a description how to build and use the service
 - clean code
+- use of the spring framework and spring best practices
 - structure of the project
 - how you test your code
-
-It is more important that the application works rather than finishing all tasks.
 
 We do not require you to build a frontend, only endpoints are relevant.
 
