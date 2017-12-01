@@ -43,6 +43,6 @@ the data does not have to be stored permanently, it may be handled in-memory dur
 
 We do not require you to build a frontend, only endpoints are relevant. 
 And we can't stress enough: we are looking for clean, structured code. If the task takes you too long, you can hard code a shortcut, mark it with a comment and it will be fine. 
-But make sure everything you hand in is well layed out and tidy!
+But make sure everything you hand in is well laid out and tidy!
 
 Please send a link to a repository with your solution or a file archive to tech@heavenHR.com
